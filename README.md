@@ -30,12 +30,13 @@ git clone https://github.com/Niharika1008/expense-tracker.git
 Simply open index.html in your web browser.
 No external dependencies or installations required!
 
-📂 Project Structure
-expense-tracker/
-│
-├── index.html    # Main HTML page
-├── style.css     # Styling for the app
-└── script.js     # App logic (transactions, storage, calculations)
+
+## 📂 Project Structure
+
+- `index.html` → Main HTML page  
+- `style.css` → Styling for the app  
+- `script.js` → App logic (transactions, storage, calculations)  
+
 
 
 💡 Future Improvements
