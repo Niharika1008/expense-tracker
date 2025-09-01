@@ -35,7 +35,7 @@ No external dependencies or installations required!
 
 - `index.html` → Main HTML page  
 - `style.css` → Styling for the app  
-- `script.js` → App logic (transactions, storage, calculations)  
+- `script.js` → App logic (calculations)  
 
 
 
